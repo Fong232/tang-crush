@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'thôi t biết mà ngại ghê hihi. đừng nghĩ đến chia tay nha mạy =((((',
     messDesc: 'thật lòng tha thứ cho t nha t kh hứa cũng kh thề sẽ thay đổi nhưng hứa mãi yêu m :3.',
     btnAccept: 'biết rồi nói nhiều <3',
-    messLink: 'https://www.facebook.com/messages/t/100035833730431/  
-}
+    messLink: 'https://www.facebook.com/messages/t/100035833730431/}  
+
