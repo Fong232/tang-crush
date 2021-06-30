@@ -1,0 +1,18 @@
+const CONFIG = {
+    introTitle: 'Hiền à!',
+    introDesc: `Nếu cảm thấy tương lai 2 đứa mờ mịt
+    Nhắm mắt lại
+    Để t thịt m luôn 🥰`,
+    btnIntro: 'hihi',
+    title: ' t xin lỗi thực sự vì t chỉ nghĩ đó là cmt dạo mà kh nghĩ đến m 😞',
+    desc: 'M giận t từ t2 đến t6 cũng được nhưng nhớ chừa thứ tha cho t nho 😘 ',
+    btnYes: 'được, tha cho lần này đó ',
+    btnNo: 'Không, Mơ đi cưng :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao m lại chọn tai dị <3',
+    btnReply: 'Gửi cho Phong <3',
+    reply: 'Vì xinh troai quá đó',
+    mess: 'Thôi t biết mà hihi ',
+    messDesc: 'Tha thứ cho t nha hiền đix tró 🥺🥺🥺.',
+    btnAccept: 'biết rùi <3',
+    messLink: 'https://www.facebook.com/profile.php?id=100011161955253//
+}
